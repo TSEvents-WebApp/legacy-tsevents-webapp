@@ -1,0 +1,282 @@
+/*!
+Theme Name: UW TS Maps
+Description: 
+Author: Chris Forbes and Zizhen Song
+Version: 0.1
+ */ 
+
+ #mapid { height: 180px; }
+ body { margin:0; padding:0; width:100%; height:100%; background: #ffffff; }
+ #map { position:absolute; top:0; bottom:0; width:100%; z-index: 1; }
+ .active {
+    color: white !important;
+  }
+  /* Dropdown container (hidden by default). Optional: add a lighter background color and some left padding to change the design of the dropdown content */
+ .dropdown-container {
+    display: none;
+    background-color: #262626;
+    padding-left: 20px;
+    transition: 3s;
+  }
+  
+  /* Optional: Style the caret down icon */
+  .fa-caret-down {
+    float: right;
+    padding-right: 8px;
+  } 
+
+ .sidenav {
+    height: 100%;
+    width: 0px;
+    position: fixed;
+    z-index: 3;
+    top: 0;
+    right: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    overflow-y: visible;
+    
+    transition: 0.5s;
+    padding-top: 0px;
+    
+  }
+  
+  .sidenav a, .dropdown-btn {
+    padding: 8px 8px 8px 24px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    border: none;
+    background: none;
+    transition: 0.3s;
+    outline: none;
+    text-align: left;
+    width: 100%;
+  }
+  
+  .sidenav a:hover, .dropdown-btn:hover {
+    color: #f1f1f1;
+    background-color: #b7a57a;
+  }
+  
+  .sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    font-size: 36px;
+    width: 250px;
+
+
+  }
+
+  .openbtn{
+    position: fixed;
+    top: 0;
+    /*fill: #111;*/
+    right:12px;
+    top: 12px;
+    /*font-size:36px;*/
+    cursor:pointer;
+    z-index: 2;
+    /*background: #818181;*/
+  }
+  
+  @media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+  }
+
+  .centered_overlay{
+    position: absolute;
+    z-index: 5;
+    transform: translate(10%, 10%);
+
+  }
+  #photoViewer{
+    position: absolute;
+    width:100vw;
+    height:100vh;
+    background-color: rgba(0,0,0, 0.5);
+    z-index: 4;
+    display: none;
+  }
+  #panorama{
+    width:80vw;
+    height:80vh;
+  }
+
+  #schematicBox{
+    display: none;
+    position: absolute;
+    width:370px;
+    height:420px;
+    background-image: url("photos/blueprint.png");
+    
+    /*background-color: rgb(137, 210, 255);*/
+    z-index: 4;
+    bottom: 1vh;
+    left:1vw;
+
+
+  }
+
+  .close_tr {
+    color: white;
+    position: absolute;
+    top: 0.5vh;
+    right: 13vw;
+    font-size: 4.5vw;
+    font-weight: bold;
+  }
+  
+  .close_tr:hover,
+  .close_tr:focus {
+    color: #999;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+  .cursor {
+    cursor: pointer;
+  }
+  
+  .schematic{
+    position: absolute;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    z-index: 5;
+  }
+
+  #CPG_schem, #HG_schem, #MMG_schem, #PBG_schem, #S1_schem, 
+  #W46_schem, #W45_schem, #G4545_schem, #PDL_schem {
+    display: none;
+  }
+
+  
+  @keyframes animate{
+    0%{
+      opacity: 0;
+      fill: none;
+      stroke-dashoffset: 500;
+    }
+
+    30% {
+      opacity: 10;
+      fill: none;
+      stroke-dashoffset: 500;
+    }
+
+    90%{
+      fill: rgba(0,0,0, 0);
+    }
+    
+    100% {
+      opacity: 10;
+      fill: rgba(0,0,0, 1);
+      stroke-dashoffset: 0;
+    }
+  }
+
+#schematicBox h1 {
+  text-align: center;
+  font-size: 32px;
+  border: none;
+  margin-top: 30px;
+  margin-bottom: 0;
+  -webkit-text-fill-color: #ffffff;
+}
+
+.closeGarage{
+  color: black;
+  position: absolute;
+  top: 0px;
+  right: 5px;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.closeGarage:hover,
+  .closeGarage:focus {
+    color: #999;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+.floorShape{
+  fill:#4B2E83;
+  fill-opacity: 0.75;
+  stroke:#ffffff;
+  stroke-width:8;
+  stroke-miterlimit:10;
+} 
+
+.floorLine{
+  fill:none;
+  stroke:#ffffff;
+  stroke-width:15;
+  stroke-linecap:round;
+  stroke-linejoin:round;
+  stroke-miterlimit:10;
+}
+/* #4B2E83*/
+.purple{
+  fill:#ffffff;
+}
+
+.grayDiv{
+  opacity:0.8;
+  fill:none;
+  stroke:#000000;
+  stroke-width:8;stroke-linecap:round;
+  stroke-miterlimit:10;
+  stroke-dasharray:30;
+}
+
+.floorConnector{
+  fill:none;
+  stroke:#4B2E83;
+  stroke-width:8;
+  stroke-linecap:round;
+  stroke-linejoin:round;
+  stroke-miterlimit:10;
+  stroke-dasharray:12;
+}
+
+/* Leaft-credits-control!!! */
+.leaflet-credits-control {
+  margin-right:0 !important;
+  margin-bottom:0 !important;
+
+  height:50px;        /* defined in the JavaScript code */
+  padding-right:50px; /* defined in the JavaScript code */
+
+  background-image:none; /* defined in the JavaScript code */
+  background-repeat:no-repeat;
+  background-position:100% 0;
+
+  background-color:white;
+  opacity:0.90;
+  border-radius:5px;
+  border:4px solid rgba(0, 0, 0, 0.1);
+
+  cursor:pointer;
+}
+.leaflet-credits-control a {
+  font-size:10pt;
+  color:#333333 !important;
+  text-decoration:none;
+
+  text-align:right;
+
+  display:none; /* becomes visible on mouse hover, see creditsControl */
+}
+.leaflet-credits-control a.leaflet-credits-showlink {
+  display:inline-block;
+  padding-left:5px;
+  padding-right:5px;
+
+  margin-top:5px;
+
+  line-height:15px;
+}
