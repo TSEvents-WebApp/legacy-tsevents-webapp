@@ -1,0 +1,3 @@
+CPG and Outside workbooks are generated upon running metadataExtract.py: the script goes through the 'photos' folder inside the root, looking for any subfolders with names 'Outside', '4545', 'W45', 'W46', 'PDL', 'CPG', 'Haggot', 'McMahon', 'S1', 'PBG' to extract coordinates from. 
+
+The 'ParkingGarage' workbook seems to contain the coordinates for each parking gargage on the map as well as the icons that each correlates to.

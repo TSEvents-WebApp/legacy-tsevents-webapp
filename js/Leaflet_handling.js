@@ -3,7 +3,6 @@ $(function() {
     var garage
     // Setting up the map
 
-
     var mapExtent = [-122.32354839, 47.64710235, -122.28590335, 47.66764306];
     var mapMinZoom = 13;
     var mapMaxZoom = 20;
@@ -69,53 +68,12 @@ $(function() {
     });
 
 
-    //var myLayer = L.geoJSON().addTo(map);
-    //myLayer.addData(geojsonFeature);
-      // load GeoJSON from an external file
-    // $.getJSON('PhotoData.geojson',function(data){
-    //     var pictureIcon = L.icon({
-    //         iconUrl: 'Photo-icon.png',
-    //         iconSize: [50,50]
-    //     })
-    //     L.geoJson(data ,{
-    //         pointToLayer: function(feature,latlng){
-    //           return L.marker(latlng,{icon: pictureIcon});
-    //         }
-    //     }).addTo(map);
-    //     alert(window.location.pathname);
-    //     // add GeoJSON layer to the map once the file is loaded
-    //     L.geoJson(data).addTo(map);
-    //     alert(data);
-    // });
-    //var geojsonLayer = new L.GeoJSON.AJAX("PhotoData.geojson");       
-    //geojsonLayer.addTo(map);
-
-    
-
-    //var kyPhotos = L.geoJSON(photos.responseJSON).addTo(map);
-    // var photos = $.ajax({
-    //     url:"PhotoData.geojson",
-    //     dataType: "json",
-    //     success: console.log("Data successfully loaded!"),
-    //     error: function (xhr) {
-    //        alert(xhr.statusText)
-    //     }
-    // });
-
-
-
     // creating icon
     var pictureIcon = L.icon({
         iconUrl: 'png/Photo-icon_pin.png',
         iconSize: [40,50],
         iconAnchor: [20,50]
     });
-
-    // var CPGIcon = L.icon({
-    //     iconUrl:'CPG.png',
-    //     iconSize: [50,50], 
-    //     iconAnchor:  [25,25]
-    // });
 
     function iconCreation(n){
         var ans = L.icon({
