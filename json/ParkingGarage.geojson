@@ -1,104 +1,16 @@
 {
-   "type": "FeatureCollection",
-   "features": [
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -122.310045361518,47.6555779089166 ]
-    },
-    "properties": {
-    "Parking Garage":"Central Plaza Garage",
-    "Icon":"CPG.png"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -122.314004302024,47.6528714054933 ]
-    },
-    "properties": {
-    "Parking Garage":"Portage Bay Garage",
-    "Icon":"PBG.png"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -122.309702038764,47.6494058645464 ]
-    },
-    "properties": {
-    "Parking Garage":"S1 Garage",
-    "Icon":"S1.png"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -122.303103804588,47.6566293964412 ]
-    },
-    "properties": {
-    "Parking Garage":"Padelford Garage",
-    "Icon":"PDL.png"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -122.303409576416,47.6582047814197 ]
-    },
-    "properties": {
-    "Parking Garage":"McMahon Garage",
-    "Icon":"MMG.png"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -122.304042577743,47.6591514348503 ]
-    },
-    "properties": {
-    "Parking Garage":"Haggett Garage",
-    "Icon":"HG.png"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -122.312593460083,47.6614601855499 ]
-    },
-    "properties": {
-    "Parking Garage":"4545 Garage",
-    "Icon":"G4545.png"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -122.316445112228,47.6599679999752 ]
-    },
-    "properties": {
-    "Parking Garage":"Tower Garage B (W45)",
-    "Icon":"W45.png"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -122.315624356269,47.6609579777331 ]
-    },
-    "properties": {
-    "Parking Garage":"Tower Garage A (W46)",
-    "Icon":"W46.png"
-    }
-  }
-]
+  "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.310045361518, 47.6555779089166] }, "properties": { "Parking Garage": "Central Plaza Garage", "Icon": "CPG.png" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.314004302024, 47.6528714054933] }, "properties": { "Parking Garage": "Portage Bay Garage", "Icon": "PBG.png" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.309702038764, 47.6494058645464] }, "properties": { "Parking Garage": "S1 Garage", "Icon": "S1.png" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.303103804588, 47.6566293964412] }, "properties": { "Parking Garage": "Padelford Garage", "Icon": "PDL.png" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.303409576416, 47.6582047814197] }, "properties": { "Parking Garage": "McMahon Garage", "Icon": "MMG.png" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.304042577743, 47.6591514348503] }, "properties": { "Parking Garage": "Haggett Garage", "Icon": "HG.png" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.312593460083, 47.6614601855499] }, "properties": { "Parking Garage": "4545 Garage", "Icon": "G4545.png" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.316445112228, 47.6599679999752] }, "properties": { "Parking Garage": "Tower Garage B (W45)", "Icon": "W45.png" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.315624356269, 47.6609579777331] }, "properties": { "Parking Garage": "Tower Garage A (W46)", "Icon": "W46.png" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.315618991851, 47.6569220747685] }, "properties": { "Parking Garage": "Cedar Garage East", "Icon": "CGE.png" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.316579222679, 47.6574460010105] }, "properties": { "Parking Garage": "Cedar Garage West", "Icon": "CGW.png" } }
+  ]
 }

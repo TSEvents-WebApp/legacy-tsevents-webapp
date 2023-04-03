@@ -1,0 +1,549 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.321380376815, 47.6552418620469] },
+      "properties": { "Name": "Benjamin Hall Interdisciplinary Research Building (R&T Bldg) (RTB) ", "Type": "Campus Buildings" }
+    },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.321240901947, 47.6547648885832] }, "properties": { "Name": "668 N. E. Northlake Way (EHD)", "Type": "Campus Buildings" } },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.320350408554, 47.6552490888841] },
+      "properties": { "Name": "Publications Services Building (PSV)", "Type": "Campus Buildings" }
+    },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.31897175312, 47.6550395102005] }, "properties": { "Name": "Northlake Building (NLB)", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.317689657211, 47.6545914426071] }, "properties": { "Name": "Mercer Court (MRC)", "Type": "UW Housing" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.315737009048, 47.6540349662112] }, "properties": { "Name": "Stevens Court ", "Type": "UW Housing" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.316176891326, 47.6532110811774] }, "properties": { "Name": "Fishery Sciences (FSH)", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.316938638687, 47.655155139923] }, "properties": { "Name": "Henderson Hall (HND)", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.317024469375, 47.6556754705059] }, "properties": { "Name": "Terry Hall (TER)", "Type": "UW Housing" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.31616616249, 47.6556682437278] }, "properties": { "Name": "Maple Hall (MAH)", "Type": "UW Housing" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.315779924392, 47.6556032026795] }, "properties": { "Name": "Area 01", "Type": "UW Housing" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.31605887413, 47.656614943148] }, "properties": { "Name": "Condon Hall (CDH)", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.31611251831, 47.6571424857592] }, "properties": { "Name": "Cedar Apartments", "Type": "UW Housing" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.314985990524, 47.6556393366052] }, "properties": { "Name": "Lander Hall (LAH)", "Type": "UW Housing" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.315307855606, 47.6557116043816] }, "properties": { "Name": "Local Point", "Type": "Campus Dining" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.314991354942, 47.6565390632929] }, "properties": { "Name": "Elm Hall", "Type": "UW Housing" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.314605116844, 47.6565896498752] }, "properties": { "Name": "Cultivate Restaurant", "Type": "Campus Dining" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.315232753753, 47.6563945299304] }, "properties": { "Name": "Fitness Center West", "Type": "Athletic Facilities" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.31532394886, 47.6550069892949] }, "properties": { "Name": "Child Care Center (CCC)", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.315243482589, 47.6547504347739] }, "properties": { "Name": "SW Maintenance Bldg (SWMB)", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.314755320549, 47.654670938751] }, "properties": { "Name": "Brooklyn Trail Building (BTB)", "Type": "Campus Buildings" } },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.314787507057, 47.6550358967675] },
+      "properties": { "Name": "Samuel E. Kelly Ethnic Cultural Center (ECC1)", "Type": "Campus Buildings" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.315592169761, 47.6525497956284] },
+      "properties": { "Name": "Fisheries Teaching And Research Building (FTR)", "Type": "Campus Buildings" }
+    },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.314900159835, 47.6524413873624] }, "properties": { "Name": "Marine Studies Building (MAR)", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.314188033342, 47.6523944103773] }, "properties": { "Name": "Ocean Research Bldg. #2 (OR2)", "Type": "Campus Buildings" } },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.314159870147, 47.652264320044] },
+      "properties": { "Name": "3716 Brooklyn Avenue N.E. (WSG)", "Type": "Campus Buildings" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.313382029533, 47.6526473628753] },
+      "properties": { "Name": "UW Child Care at Portage Bay (PBCC)", "Type": "Campus Buildings" }
+    },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.314159870147, 47.6551623667722] }, "properties": { "Name": "Ethnic Cultural Theater (ICT)", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.313585877418, 47.655216568109] }, "properties": { "Name": "Community Design Center (SGS)", "Type": "Campus Buildings" } },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.31363415718, 47.6543963151954] },
+      "properties": { "Name": "Purchasing And Accounting Building (PCH)", "Type": "Campus Buildings" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.313591241836, 47.6550322833343] },
+      "properties": { "Name": "3941 University Way N.E. (DSC)", "Type": "Campus Buildings" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.313618063926, 47.6549021995724] },
+      "properties": { "Name": "3939 University Way N.E. (EIC)", "Type": "Campus Buildings" }
+    },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.313891649246, 47.6556393366052] }, "properties": { "Name": "Alder Hall (ALD)", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.313419580459, 47.6558561396344] }, "properties": { "Name": "District Market", "Type": "Cafes & Markets" } },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.314068675041, 47.6565462899505] },
+      "properties": { "Name": "Poplar Hall & Arts Ticket Office (UTO)", "Type": "Campus Buildings" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.313483953475, 47.6566908228929] },
+      "properties": { "Name": "Floyd and Delores Jones Playhouse Theater (PHT)", "Type": "Campus Buildings" }
+    },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.313644886016, 47.6564270499718] }, "properties": { "Name": "Transportation Services (UTC)", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.312577366828, 47.6543529534493] }, "properties": { "Name": "UW Police Station (UWPD)", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.312947511672, 47.6540168986964] }, "properties": { "Name": "3900/3902 University Way (EK)", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.312529087066, 47.6536627741434] }, "properties": { "Name": "West Receiving Station (WRS)", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.312732934951, 47.6549130398983] }, "properties": { "Name": "Gould Hall (GLD)", "Type": "Campus Buildings" } },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.312470078468, 47.6556212696454] },
+      "properties": { "Name": "Commodore-Duchess Apartments (CDA)", "Type": "Campus Buildings" }
+    },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.312690019607, 47.6565499032789] }, "properties": { "Name": "Schmitz Hall (SMZ)", "Type": "Campus Buildings" } },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.312400341033, 47.657514653025] },
+      "properties": { "Name": "Social Work / Speech & Hearing Sciences Building (SWS)", "Type": "Campus Buildings" }
+    },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.312394976615, 47.6580783187839] }, "properties": { "Name": "Eagleson Hall (EGL)", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.312512993812, 47.6585263564566] }, "properties": { "Name": "Russell Hall", "Type": "Campus Buildings" } },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.313159406185, 47.6519192177288] },
+      "properties": { "Name": "William H. Foege Genome Sciences (GNOM)", "Type": "Campus Buildings" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.312588095664, 47.6524377737497] },
+      "properties": { "Name": "William H. Foege Bioengineering (BIOE)", "Type": "Campus Buildings" }
+    },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.312636375427, 47.6512777911368] }, "properties": { "Name": "Ocean Sciences Building (OCN)", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.311499118804, 47.6518885017054] }, "properties": { "Name": "Hitchcock Hall (HCK)", "Type": "Campus Buildings" } },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.312298417091, 47.6502478784386] },
+      "properties": { "Name": "Oceanography Teaching Building (OTB)", "Type": "Campus Buildings" }
+    },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.312904596328, 47.6498648180077] }, "properties": { "Name": "Marine Sciences Building(MSB)", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.312867045402, 47.650356291258] }, "properties": { "Name": "1425 N.E. Boat Street", "Type": "Campus Buildings" } },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.309181690216, 47.6508911245401] },
+      "properties": { "Name": "Magnuson Health Sciences Center (HS) ", "Type": "Campus Buildings" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.311442792415, 47.6500184038952] },
+      "properties": { "Name": "Harris Hydraulics Laboratory (HHL)", "Type": "Campus Buildings" }
+    },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.31099486351, 47.6495196998361] }, "properties": { "Name": "South Campus Center (SOCC)", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.310619354248, 47.6491059164043] }, "properties": { "Name": "Oceanography Building (OCE)", "Type": "Campus Buildings" } },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.311016321182, 47.6488366843759] },
+      "properties": { "Name": "Oceanography Dock Building (ODB)", "Type": "Campus Buildings" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.310453057289, 47.6487029713092] },
+      "properties": { "Name": "Oceanography Storage Shed (OSS)", "Type": "Campus Buildings" }
+    },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.309449911117, 47.6487915110809] }, "properties": { "Name": "Portage Bay Building (PBB)", "Type": "Campus Buildings" } },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.307660877704, 47.649322746559] },
+      "properties": { "Name": "University Medical Center (UMC)", "Type": "Campus Buildings" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.307615280151, 47.6481789573426] },
+      "properties": { "Name": "Center on Human Development and Disability School (CHSC)", "Type": "Campus Buildings" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.3052495718, 47.6484319302587] },
+      "properties": { "Name": "University Medical Center, Surgery And Treatment Pavilion (UMSP)", "Type": "Campus Buildings" }
+    },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.306134700775, 47.6484427719277] }, "properties": { "Name": "The Glade", "Type": "Attraction" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.312808036804, 47.6602714988014] }, "properties": { "Name": "University Book Store (BOOK)", "Type": "Campus Buildings" } },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.311493754386, 47.6603401471008] },
+      "properties": { "Name": "Burke Memorial-Washington State Museum (BMM)", "Type": "Campus Buildings" }
+    },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.311112880706, 47.6593176394065] }, "properties": { "Name": "William H. Gates Hall (LAW)", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.310318946838, 47.6574026417969] }, "properties": { "Name": "Parrington Hall (PAR)", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.311064600944, 47.657225591301] }, "properties": { "Name": "Cunningham Hall (ICH)", "Type": "Campus Buildings" } },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.311638593673, 47.6563547831856] },
+      "properties": { "Name": "Henry Art Gallery and Allen Center for The Visual Arts", "Type": "Campus Buildings" }
+    },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.310576438903, 47.6556465633874] }, "properties": { "Name": "Meany Hall (MNY)", "Type": "Campus Buildings" } },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.310415506362, 47.6564631833274] },
+      "properties": { "Name": "Odegaard Undergraduate Library (OUG)", "Type": "Campus Buildings" }
+    },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.309600114822, 47.6558778198879] }, "properties": { "Name": "Central Plaza (Red Square)", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.309181690216, 47.6565499032789] }, "properties": { "Name": "Kane Hall (KNE)", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.309417724609, 47.6553213572006] }, "properties": { "Name": "Gerberding Hall (GRB)", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.308119535446, 47.6557694185308] }, "properties": { "Name": "Suzzallo Library (SUZ)", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.311713695526, 47.6544107691027] }, "properties": { "Name": "Population Health", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.311056554317, 47.6549076197356] }, "properties": { "Name": "Guthrie Annex 4 (GA4)", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.310903668403, 47.654584215679] }, "properties": { "Name": "Architecture Hall (ARC)", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.310887575149, 47.6539663096215] }, "properties": { "Name": "Guthrie Hall (GTH)", "Type": "Campus Buildings" } },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.31178343296, 47.6533375556017] },
+      "properties": { "Name": "Physics / Astronomy Tower (PAT)", "Type": "Campus Buildings" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.311257719993, 47.6535724358627] },
+      "properties": { "Name": "Physics / Astronomy Building (PAB)", "Type": "Campus Buildings" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.310989499092, 47.6529219956288] },
+      "properties": { "Name": "Physics / Astronomy Auditorium (PAA)", "Type": "Campus Buildings" }
+    },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.310603260993, 47.6526437492768] }, "properties": { "Name": "Kincaid Hall (KIN)", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.309964895248, 47.652293229035] }, "properties": { "Name": "Life Sciences Building (LSB)", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.309567928314, 47.653055697894] }, "properties": { "Name": "Benson Hall (BNS)", "Type": "Campus Buildings" } },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.309997081756, 47.6537242040849] },
+      "properties": { "Name": "Chemistry Library Building (CHL)", "Type": "Campus Buildings" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.309830784797, 47.6542951377319] },
+      "properties": { "Name": "Molecular Engineering & Sciences Building (MolES) (MOL)", "Type": "Campus Buildings" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.30993270874, 47.6546348041552] },
+      "properties": { "Name": "Institute for Nano-engineered Systems (NanoES)", "Type": "Campus Buildings" }
+    },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.309117317199, 47.6525389548119] }, "properties": { "Name": "Medicinal Herb Garden", "Type": "Attraction" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.308307290077, 47.6529364499442] }, "properties": { "Name": "Chemistry Building (CHB)", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.308779358863, 47.6534820974258] }, "properties": { "Name": "Bagley Hall (BAG)", "Type": "Campus Buildings" } },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.309079766273, 47.6540638742219] },
+      "properties": { "Name": "Atmospheric Sciences-Geophysics Building (ATG)", "Type": "Campus Buildings" }
+    },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.308811545372, 47.6545480810231] }, "properties": { "Name": "Johnson Hall (JHN)", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.307636737823, 47.6512814048298] }, "properties": { "Name": "Bloedel Hall (BLD)", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.307561635971, 47.6517475691311] }, "properties": { "Name": "Anderson Hall (AND)", "Type": "Campus Buildings" } },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.306901812553, 47.6514657028416] },
+      "properties": { "Name": "Winkenwerder Forest Sciences Laboratory (WFS)", "Type": "Campus Buildings" }
+    },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.307749390602, 47.6548371575699] }, "properties": { "Name": "Mary Gates Hall (MGH)", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.306923270225, 47.6554189192693] }, "properties": { "Name": "Allen Library (ALB)", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.306440472602, 47.6548805189139] }, "properties": { "Name": "Lee Paul Sieg Hall (SIG)", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.306386828422, 47.654584215679] }, "properties": { "Name": "Guggenheim Annex (GUA)", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.306349277496, 47.6542662298491] }, "properties": { "Name": "Guggenheim Hall (GUG)", "Type": "Campus Buildings" } },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.305828928947, 47.6544179960549] },
+      "properties": { "Name": "Kirsten Wind Tunnel & Aeronautical Laboratory (KIR)", "Type": "Campus Buildings" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.305823564529, 47.6539193340082] },
+      "properties": { "Name": "Aerospace Engineering Research Building (AERB)", "Type": "Campus Buildings" }
+    },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.305442690849, 47.6541903465808] }, "properties": { "Name": "Aerodynamics Laboratory (ADL)", "Type": "Campus Buildings" } },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.306360006332, 47.6536049576618] },
+      "properties": { "Name": "Electrical and Computer Engineering Building (ECE)", "Type": "Campus Buildings" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.305866479873, 47.6532508303152] },
+      "properties": { "Name": "Paul G. Allen Center For Computer Science & Engineering (CSE)", "Type": "Campus Buildings" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.306290268898, 47.6528172017222] },
+      "properties": { "Name": "Columns and Sylvan Theater (LNDMK-4)", "Type": "Attraction" }
+    },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.305190563201, 47.6553105169595] }, "properties": { "Name": "Husky Union Building (HUB)", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.307786941528, 47.6563583965273] }, "properties": { "Name": "Gowen Hall (GWN)", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.308253645896, 47.657225591301] }, "properties": { "Name": "Savery Hall (SAV)", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.307105660438, 47.6566763696166] }, "properties": { "Name": "Smith Hall (SMI)", "Type": "Campus Buildings" } },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.307212948799, 47.6572472709858] },
+      "properties": { "Name": "The Liberal Arts Quadrangle - The Quad (LNDMK-1)", "Type": "Campus Buildings" }
+    },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.307202219963, 47.6578940441091] }, "properties": { "Name": "Raitt Hall (RAI)", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.306241989135, 47.657225591301] }, "properties": { "Name": "Miller Hall (MLR)", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.305839657783, 47.6565282233046] }, "properties": { "Name": "Thomson Hall (THO)", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.305367588996, 47.6569618210815] }, "properties": { "Name": "Communications Building (CMU)", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.306537032127, 47.6585010641097] }, "properties": { "Name": "Art Building (ART)", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.305807471275, 47.6576338905199] }, "properties": { "Name": "Music Building (MUS)", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.304879426956, 47.6576375037731] }, "properties": { "Name": "Clark Hall (CLK)", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.307202219963, 47.6587792792514] }, "properties": { "Name": "Mackenzie Hall (MKZ)", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.307706475257, 47.6591369822552] }, "properties": { "Name": "Dempsey Hall (DEM)", "Type": "Campus Buildings" } },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.307711839675, 47.6595344271629] },
+      "properties": { "Name": "Bank of America Executive Education Center (EXED)", "Type": "Campus Buildings" }
+    },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.308666706085, 47.6591442085532] }, "properties": { "Name": "PACCAR Hall (PCAR)", "Type": "Campus Buildings" } },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.309272885322, 47.6603293079017] },
+      "properties": { "Name": "Theodor Jacobsen Observatory (OBS)", "Type": "Campus Buildings" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.308087348937, 47.6607231306933] },
+      "properties": { "Name": "Hughes Penthouse Theatre (HPT)", "Type": "Campus Buildings" }
+    },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.306488752365, 47.660817069636] }, "properties": { "Name": "Hansee Hall (HNS)", "Type": "UW Housing" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.306590676307, 47.6595416534059] }, "properties": { "Name": "Hutchinson Hall (HUT)", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.304874062538, 47.6607231306933] }, "properties": { "Name": "McCarty Hall (MCC)", "Type": "UW Housing" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.305362224578, 47.6588443163434] }, "properties": { "Name": "Lewis Hall (LEW)", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.304739952087, 47.6601414280919] }, "properties": { "Name": "Madrona Hall (MDR)", "Type": "UW Housing" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.304139137268, 47.6599643868833] }, "properties": { "Name": "Willow Hall (WLW)", "Type": "UW Housing" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.303656339645, 47.659252602904] }, "properties": { "Name": "Haggett Hall (HGT)", "Type": "UW Housing" } },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.302840948104, 47.6599932916114] },
+      "properties": { "Name": "North Physics Laboratory (NPV) (Van De Graaff Accelerator)", "Type": "Campus Buildings" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.30304479599, 47.6596861780568] },
+      "properties": { "Name": "North Physics Laboratory (NPC) (Cyclotron Building)", "Type": "Campus Buildings" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.302894592285, 47.6590936244458] },
+      "properties": { "Name": "North Physics Laboratory (NPS) (Cyclotron Shop)", "Type": "Campus Buildings" }
+    },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.304766774177, 47.6582914984786] }, "properties": { "Name": "Intellectual House (INT)", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.303731441497, 47.6581903285625] }, "properties": { "Name": "McMahon Hall (MCM)", "Type": "UW Housing" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.304262518882, 47.656950981181] }, "properties": { "Name": "Padelford Hall (PDL)", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.304101586341, 47.6561957959038] }, "properties": { "Name": "Hall Health Center (HLL)", "Type": "Campus Buildings" } },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.304053306579, 47.655632109822] },
+      "properties": { "Name": "University of Washington Club (FAC)", "Type": "Campus Buildings" }
+    },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.303227186203, 47.6558163924798] }, "properties": { "Name": "Fluke Hall (FLK)", "Type": "Campus Buildings" } },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.30421423912, 47.6550756445163] },
+      "properties": { "Name": "Facilities Administration Building (PPO)", "Type": "Campus Buildings" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.303854823112, 47.6550467370657] },
+      "properties": { "Name": "University Facilities Building (UFB)", "Type": "Campus Buildings" }
+    },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.304466366767, 47.654627577233] }, "properties": { "Name": "Engineering Library (ELB)", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.304477095603, 47.6542626163627] }, "properties": { "Name": "Loew Hall (LOW)", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.303935289382, 47.6546637118338] }, "properties": { "Name": "University Facilities Annex", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.303366661071, 47.6546564849157] }, "properties": { "Name": "Plant Operations Annex", "Type": "Campus Buildings" } },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.303763628006, 47.6541505981582] },
+      "properties": { "Name": "Plant Operations Building (POB)", "Type": "Campus Buildings" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.304750680923, 47.6536808417807] },
+      "properties": { "Name": "Mechanical Engineering Building (MEB)", "Type": "Campus Buildings" }
+    },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.304273247718, 47.653742271701] }, "properties": { "Name": "Engineering Annex (EGA)", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.303742170333, 47.6536410929703] }, "properties": { "Name": "Power Plant (PWR)", "Type": "Campus Buildings" } },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.304638028144, 47.6528605647436] },
+      "properties": { "Name": "Bill & Melinda Gates Center for Computer Science & Engineering (CSE2)", "Type": "Campus Buildings" }
+    },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.304847240448, 47.6524883643053] }, "properties": { "Name": "More Hall (MOR)", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.305238842964, 47.6521739793441] }, "properties": { "Name": "Mueller Hall (MUE)", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.305018901824, 47.6520402748215] }, "properties": { "Name": "Roberts Hall (ROB)", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.304289340972, 47.6521378430204] }, "properties": { "Name": "Roberts Annex (RAX)", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.304589748382, 47.6518776607516] }, "properties": { "Name": "Wilcox Hall (WIL)", "Type": "Campus Buildings" } },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.304844558239, 47.6516789095341] },
+      "properties": { "Name": "Wilson Ceramic Laboratory (WCL)", "Type": "Campus Buildings" }
+    },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.305171787738, 47.6513843949754] }, "properties": { "Name": "Wilson Annex (WLA)", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.301446199417, 47.6619479367187] }, "properties": { "Name": "Plant Services Building (PSB)", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.301349639892, 47.6628294902326] }, "properties": { "Name": "Fleet Services Building", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.29525566101, 47.6627933612828] }, "properties": { "Name": "Bowman Building (BOW)", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.300056815147, 47.6477543214789] }, "properties": { "Name": "ASUW Shell House", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.301220893859, 47.6480687330459] }, "properties": { "Name": "Husky Climbing Rock", "Type": "Athletic Facilities" } },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.299820780754, 47.6485421537889] },
+      "properties": { "Name": "Waterfront Activities Center (WAC)", "Type": "Athletic Facilities" }
+    },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.301644682884, 47.6502876298319] }, "properties": { "Name": "Husky Stadium (STD)", "Type": "Athletic Facilities" } },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.299836874008, 47.6504683176017] },
+      "properties": { "Name": "Women's Fastpitch Softball Building (WSB)", "Type": "Athletic Facilities" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.299289703369, 47.6515162943389] },
+      "properties": { "Name": "Indoor Practice Facility (IPF) (Dempsey Indoor Center)", "Type": "Athletic Facilities" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.300040721893, 47.6518632061431] },
+      "properties": { "Name": "Nordstrom Tennis Center (NTC)", "Type": "Athletic Facilities" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.300963401794, 47.6522914222235] },
+      "properties": { "Name": "Graves Annex Building (GAB)", "Type": "Athletic Facilities" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.302111387252, 47.652094479399] },
+      "properties": { "Name": "Alaska Airlines Arena at Hec Edmundson Pavilion (EDP)", "Type": "Athletic Facilities" }
+    },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.301156520843, 47.6518776607516] }, "properties": { "Name": "Pavilion Pool", "Type": "Athletic Facilities" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.303822636604, 47.6494636856769] }, "properties": { "Name": "UW Light Rail Station ", "Type": "Campus Buildings" } },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.302250862121, 47.6530629250337] },
+      "properties": { "Name": "Graves Hall, 3910 Montlake Blvd Ne (TGB)", "Type": "Campus Buildings" }
+    },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.299268245697, 47.6525353412059] }, "properties": { "Name": "Shellhouse Annex 1 (SHA)", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.299708127975, 47.6528894734044] }, "properties": { "Name": "Conibear Shellhouse (CSH)", "Type": "Campus Buildings" } },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.3010545969, 47.6535760493969] },
+      "properties": { "Name": "Intramural Activities (IMA) Building", "Type": "Athletic Facilities" }
+    },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.301129698753, 47.652875019076] }, "properties": { "Name": "Quillian Tennis Stadium", "Type": "Athletic Facilities" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.300507426261, 47.6547576616791] }, "properties": { "Name": "Recreation Field 1", "Type": "Athletic Facilities" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.298678159713, 47.6547070733219] }, "properties": { "Name": "Husky Ballpark", "Type": "Athletic Facilities" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.301440834999, 47.654479425108] }, "properties": { "Name": "Sand Volleyball Courts", "Type": "Athletic Facilities" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.301451563835, 47.6548949726872] }, "properties": { "Name": "North Tennis Courts ", "Type": "Athletic Facilities" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.298179268836, 47.6555851357072] }, "properties": { "Name": "Husky Soccer Stadium", "Type": "Athletic Facilities" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.298179268836, 47.6567667025275] }, "properties": { "Name": "Husky Track", "Type": "Athletic Facilities" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.297723293304, 47.6576266640128] }, "properties": { "Name": "Recreation Field 2", "Type": "Athletic Facilities" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.298350930213, 47.6581234840461] }, "properties": { "Name": "Emergency Helistop", "Type": "Campus Buildings" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.297862768173, 47.6597006304998] }, "properties": { "Name": "Golf Range", "Type": "Athletic Facilities" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.295346856117, 47.6600402617605] }, "properties": { "Name": "Recreation Field 3", "Type": "Athletic Facilities" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.293721437454, 47.660437699792] }, "properties": { "Name": "Recreation Field 4", "Type": "Athletic Facilities" } },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.29389578104, 47.658851542682] },
+      "properties": { "Name": "Environmental Safety Office Building (ESO)", "Type": "Campus Buildings" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.293142080307, 47.6591947926116] },
+      "properties": { "Name": "Corporation Yard Buildings (CYB)", "Type": "Campus Buildings" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.293142080307, 47.6596283682444] },
+      "properties": { "Name": "Environmental Safety Storage Building (ESB)", "Type": "Campus Buildings" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.292283773422, 47.6598415416102] },
+      "properties": { "Name": "Ceramic And Metal Arts Building (CMA)", "Type": "Campus Buildings" }
+    },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.291103601455, 47.660170332722] }, "properties": { "Name": "Laurel Village ", "Type": "Campus Buildings" } },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.290620803833, 47.6580819320063] },
+      "properties": { "Name": "Elisabeth C. Miller Library (ECML)", "Type": "Campus Buildings" }
+    },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.290497422218, 47.6577784204517] }, "properties": { "Name": "Merrill Hall (NMH)", "Type": "Campus Buildings" } },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.290143370628, 47.6580566394441] },
+      "properties": { "Name": "Northwest Horticultural Society Hall (NHS)", "Type": "Campus Buildings" }
+    },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.289942204952, 47.6579012705792] }, "properties": { "Name": "Isaacson Hall (ISA)", "Type": "Campus Buildings" } },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.288850545883, 47.6577964866651] },
+      "properties": { "Name": "Douglas Research Conservatory (DRC)", "Type": "Campus Buildings" }
+    },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.289633750915, 47.6580566394441] }, "properties": { "Name": "UW Bontanic Gardens", "Type": "Attraction" } },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.288711071014, 47.656672756297] },
+      "properties": { "Name": "Urban Horticulture Field House (UHF)", "Type": "Campus Buildings" }
+    },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.29307770729, 47.6551623667722] }, "properties": { "Name": "Union Bay Natural Area", "Type": "Attraction" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.310866117477, 47.6601414280919] }, "properties": { "Name": "N01", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.308972477912, 47.6587756660772] }, "properties": { "Name": "N02", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.30712711811, 47.6592128583349] }, "properties": { "Name": "N03", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.308956384658, 47.6603582124278] }, "properties": { "Name": "N05", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.302830219268, 47.6591369822552] }, "properties": { "Name": "N12", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.30497598648, 47.656318649755] }, "properties": { "Name": "N22", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.302848994731, 47.655738704772] }, "properties": { "Name": "N24", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.301564216613, 47.6596717256097] }, "properties": { "Name": "N25", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.301692962646, 47.6619045812438] }, "properties": { "Name": "N26", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.31246471405, 47.6620057439626] }, "properties": { "Name": "N28", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.311606407165, 47.6504827725963] }, "properties": { "Name": "S05", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.312523722648, 47.6502008994803] }, "properties": { "Name": "S06", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.311268448829, 47.6498178387048] }, "properties": { "Name": "S07", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.30995953083, 47.6488421051687] }, "properties": { "Name": "S08", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.308441400527, 47.648603589754] }, "properties": { "Name": "S09", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.311638593673, 47.6500635761291] }, "properties": { "Name": "S12", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.309862971305, 47.6534423484641] }, "properties": { "Name": "C07", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.311445474624, 47.6546998464097] }, "properties": { "Name": "C08", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.309728860855, 47.6551045519509] }, "properties": { "Name": "C09", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.306976914405, 47.6510880719027] }, "properties": { "Name": "C10", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.304444909095, 47.6520565362007] }, "properties": { "Name": "C12", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.3039406538, 47.6531604913219] }, "properties": { "Name": "C14", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.304278612136, 47.6535905035314] }, "properties": { "Name": "C15", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.305678725242, 47.6543168186334] }, "properties": { "Name": "C17", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.303849458694, 47.6555923624969] }, "properties": { "Name": "C19", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.305169105529, 47.6501792168699] }, "properties": { "Name": "Triangle Garage", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.304059105808, 47.653690856613] }, "properties": { "Name": "C22", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.303677797317, 47.654436063431] }, "properties": { "Name": "C23", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.300062179565, 47.658529969648] }, "properties": { "Name": "E01", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.300351858139, 47.660856812984] }, "properties": { "Name": "E02", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.292906045913, 47.6596644993846] }, "properties": { "Name": "E03", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.294740676879, 47.6590502666005] }, "properties": { "Name": "E04", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.30097413063, 47.6539988311752] }, "properties": { "Name": "E06", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.300092757795, 47.6535954333219] }, "properties": { "Name": "E07", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.299847602844, 47.6535290734325] }, "properties": { "Name": "E08", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.300287485122, 47.6521848202364] }, "properties": { "Name": "E09", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.30244398117, 47.6484987871818] }, "properties": { "Name": "E12", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.297583818435, 47.6583204041329] }, "properties": { "Name": "E14", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.290256023407, 47.6581758757013] }, "properties": { "Name": "E16", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.30345249176, 47.6512452678884] }, "properties": { "Name": "E17", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.300544977188, 47.6571713920496] }, "properties": { "Name": "E18", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.299525737762, 47.649011956391] }, "properties": { "Name": "E19", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.303184270858, 47.6494311612989] }, "properties": { "Name": "E20", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.294064760208, 47.6586817234614] }, "properties": { "Name": "E29", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.302680015563, 47.6530809928786] }, "properties": { "Name": "E97", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.302486896514, 47.6537025229373] }, "properties": { "Name": "E98", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.312732934951, 47.657800099907] }, "properties": { "Name": "W04V", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.315007448196, 47.6556537901685] }, "properties": { "Name": "W08", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.315908670425, 47.6550395102005] }, "properties": { "Name": "W10", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.314953804016, 47.6547721154864] }, "properties": { "Name": "W11", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.314020395278, 47.6546926194965] }, "properties": { "Name": "W12", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.313580513, 47.6546637118338] }, "properties": { "Name": "W13", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.314057946205, 47.6519535473806] }, "properties": { "Name": "W24", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.313612699508, 47.6522245701553] }, "properties": { "Name": "W28", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.314808964729, 47.6539554690991] }, "properties": { "Name": "W29", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.316230535507, 47.6538217691377] }, "properties": { "Name": "W32", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.316573858261, 47.6542300949732] }, "properties": { "Name": "W33", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.318789362907, 47.6540458067171] }, "properties": { "Name": "W36", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.318349480628, 47.654627577233] }, "properties": { "Name": "W39", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.319958806037, 47.6547648885832] }, "properties": { "Name": "W40", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.317013740539, 47.6565860365495] }, "properties": { "Name": "W41", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.317442893981, 47.6552346352088] }, "properties": { "Name": "W42", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.321294546127, 47.6552346352088] }, "properties": { "Name": "W43 - W44", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.317024469375, 47.6604232475529] }, "properties": { "Name": "W51", "Type": "Lot" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [-122.317507266998, 47.6604232475529] }, "properties": { "Name": "W52", "Type": "Lot" } }
+  ]
+}
