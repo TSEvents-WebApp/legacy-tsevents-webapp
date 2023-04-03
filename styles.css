@@ -11,74 +11,9 @@ Version: 0.1
  .active {
     color: white !important;
   }
-  /* Dropdown container (hidden by default). Optional: add a lighter background color and some left padding to change the design of the dropdown content */
- .dropdown-container {
-    display: none;
-    background-color: #262626;
-    padding-left: 20px;
-    transition: 3s;
-  }
-  
-  /* Optional: Style the caret down icon */
-  .fa-caret-down {
-    float: right;
-    padding-right: 8px;
-  } 
-
- .sidenav {
-    height: 100%;
-    width: 0px;
-    position: fixed;
-    z-index: 3;
-    top: 0;
-    right: 0;
-    background-color: #111;
-    overflow-x: hidden;
-    overflow-y: visible;
-    
-    transition: 0.5s;
-    padding-top: 0px;
-    
-  }
-  
-  .sidenav a, .dropdown-btn {
-    padding: 8px 8px 8px 24px;
-    text-decoration: none;
-    font-size: 25px;
-    color: #818181;
-    display: block;
-    border: none;
-    background: none;
-    transition: 0.3s;
-    outline: none;
-    text-align: left;
-    width: 100%;
-  }
-  
-  .sidenav a:hover, .dropdown-btn:hover {
-    color: #f1f1f1;
-    background-color: #b7a57a;
-  }
-  
-  .sidenav .closebtn {
-    position: absolute;
-    top: 0;
-    font-size: 36px;
-    width: 250px;
-
-
-  }
-
-  .openbtn{
-    position: fixed;
-    top: 0;
-    /*fill: #111;*/
-    right:12px;
-    top: 12px;
-    /*font-size:36px;*/
-    cursor:pointer;
-    z-index: 2;
-    /*background: #818181;*/
+  .alert1{
+    z-index: 10000;
+    visibility: hidden;
   }
   
   @media screen and (max-height: 450px) {
@@ -97,7 +32,7 @@ Version: 0.1
     width:100vw;
     height:100vh;
     background-color: rgba(0,0,0, 0.5);
-    z-index: 4;
+    z-index: 30;
     display: none;
   }
   #panorama{
@@ -110,14 +45,18 @@ Version: 0.1
     position: absolute;
     width:370px;
     height:420px;
-    background-image: url("photos/blueprint.png");
+    background-image: url("png/blueprint.png");
     
     /*background-color: rgb(137, 210, 255);*/
     z-index: 4;
     bottom: 1vh;
     left:1vw;
 
+  }
 
+  #garageName{
+    font-family:'Open Sans', sans-serif ;
+    font-weight: 600;
   }
 
   .close_tr {
@@ -139,6 +78,16 @@ Version: 0.1
   .cursor {
     cursor: pointer;
   }
+
+  #dateTakenDisplay{
+    color:white;
+    position: absolute;
+    bottom: 12.5vh;
+    left: 9vw;
+    font-size: 1.0vw;
+    font-weight: bold;
+    z-index: inherit;
+  }
   
   .schematic{
     position: absolute;
@@ -146,10 +95,16 @@ Version: 0.1
     margin-left: auto;
     margin-right: auto;
     z-index: 5;
+    width:100%; height:auto;
   }
 
+  svg{
+    position: relative;
+    z-index: 6;
+    left:0; top:0; width:100%; height:353px;
+  }
   #CPG_schem, #HG_schem, #MMG_schem, #PBG_schem, #S1_schem, 
-  #W46_schem, #W45_schem, #G4545_schem, #PDL_schem {
+  #W46_schem, #W45_schem, #G4545_schem, #PDL_schem, #CGE_schem, #CGW_schem {
     display: none;
   }
 
